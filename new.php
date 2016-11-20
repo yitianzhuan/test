@@ -1,3 +1,5 @@
 <?php 
-echo "hello word";
+
+    $data = array('1' => 1);
+
 ?>
