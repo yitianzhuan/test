@@ -3,4 +3,7 @@ lala
 add 1
 add 2
 add 3
+<<<<<<< HEAD
 add 4
+=======
+>>>>>>> d3e31695df1dea841ce45d6e086681fac280704f
